@@ -49,10 +49,4 @@ class Song
         end
       artist_counts
     end
-
-  
-  
-  
-  
-  
 end
