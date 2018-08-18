@@ -15,6 +15,10 @@ class Song
     @@genres.push(genre)
   end
   
+  def count
+    @@count
+  end
+  
 
   
   
